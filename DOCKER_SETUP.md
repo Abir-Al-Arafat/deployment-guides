@@ -1,4 +1,3 @@
-```markdown
 # 🐳 Docker Setup Guide for Node.js Backend
 
 This guide provides step-by-step instructions for dockerizing this Node.js/TypeScript backend application. It covers creating the Docker image, setting up Docker Compose for local development, and pushing the image to a container registry.
@@ -25,8 +24,6 @@ dist
 .ai
 README.md
 ```
-
----
 
 ## Step 2: Create the Dockerfile
 
